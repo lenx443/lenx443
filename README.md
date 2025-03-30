@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola, soy Lenx443 (XCDNN)!
 
-<!--
-**lenx443/lenx443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí 🚀
 
-Here are some ideas to get you started:
+Soy un apasionado de la informática, el desarrollo de software y la seguridad informática. Me encanta explorar el bajo nivel, la electrónica y el hacking ético. Mi objetivo es comprender completamente el hardware y su funcionamiento, así como desarrollar herramientas eficientes y optimizadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y herramientas 🛠️
+
+- **Lenguajes:**
+  - C (90%)
+  - C++ (85%)
+  - Python (75%)
+  - Bash (70%)
+- **Desarrollo Móvil:** Android (Termux, Magisk)
+- **Redes y Seguridad:** Sockets, análisis de tráfico, hacking ético
+- **Sistemas:** Linux, configuraciones avanzadas en Neovim
+
+## Contacto 📬
+
+Si quieres hablar sobre tecnología, desarrollo o colaborar en algún proyecto, ¡contáctame!
+
+🔗 **GitHub:** [XCDNN](https://github.com/lenx443)
