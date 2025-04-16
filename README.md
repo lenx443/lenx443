@@ -16,7 +16,7 @@ Soy un apasionado de la informática, el desarrollo de software y la seguridad i
 - <img src="https://img.icons8.com/color/48/000000/android-os.png" width="20"/> **Android** (Termux, Magisk)
 
 ### Redes y Seguridad:
-- <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Network-network-flat-icons-inmotus-design-4.png" width="20"/> **Sockets**, análisis de tráfico, hacking ético
+- <img src="https://img.icons8.com/fluency/48/network.png" width="20"/> **Sockets**, análisis de tráfico, hacking ético
 
 ### Sistemas:
 - <img src="https://img.icons8.com/color/48/000000/linux.png" width="20"/> **Linux**, configuraciones avanzadas en Neovim
