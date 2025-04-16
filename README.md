@@ -33,6 +33,8 @@ Si quieres hablar sobre tecnología, desarrollo o colaborar en algún proyecto, 
 🔗 WhatsApp: [+5351610913](https://wa.me/5351610913)  
 <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="24" height="24"/> Escríbeme directamente por WhatsApp
 
+🔗 Telegram: [@lenx443](https://t.me/lenx443)  
+<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="24" height="24"/> Escríbeme en Telegram
 
 ## ☕ Apóyame con una donación
 
