@@ -19,7 +19,12 @@ Soy un apasionado de la informática, el desarrollo de software y la seguridad i
 
 Si quieres hablar sobre tecnología, desarrollo o colaborar en algún proyecto, ¡contáctame!
 
-🔗 **GitHub:** [XCDNN](https://github.com/lenx443)
+🔗 GitHub: [XCDNN](https://github.com/XCDNN)  
+<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="24" height="24"/> Visita mi perfil en GitHub
+
+🔗 WhatsApp: [+5351610913](https://wa.me/5351610913)  
+<img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="24" height="24"/> Escríbeme directamente por WhatsApp
+
 
 ## ☕ Apóyame con una donación
 
