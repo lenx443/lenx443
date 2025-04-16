@@ -6,14 +6,22 @@ Soy un apasionado de la informática, el desarrollo de software y la seguridad i
 
 ## Tecnologías y herramientas 🛠️
 
-- **Lenguajes:**
-  - C (90%)
-  - C++ (85%)
-  - Python (75%)
-  - Bash (70%)
-- **Desarrollo Móvil:** Android (Termux, Magisk)
-- **Redes y Seguridad:** Sockets, análisis de tráfico, hacking ético
-- **Sistemas:** Linux, configuraciones avanzadas en Neovim
+### Lenguajes:
+- <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="20"/> **C** (90%)
+- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="20"/> **C++** (85%)
+- <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="20"/> **Python** (75%)
+- <img src="https://img.icons8.com/plasticine/100/000000/bash.png" width="20"/> **Bash** (70%)
+
+### Desarrollo Móvil:
+- <img src="https://img.icons8.com/color/48/000000/android-os.png" width="20"/> **Android** (Termux, Magisk)
+
+### Redes y Seguridad:
+- <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Network-network-flat-icons-inmotus-design-4.png" width="20"/> **Sockets**, análisis de tráfico, hacking ético
+
+### Sistemas:
+- <img src="https://img.icons8.com/color/48/000000/linux.png" width="20"/> **Linux**, configuraciones avanzadas en Neovim
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="20"/> **Neovim**
+
 
 ## Contacto 📬
 
